@@ -1,5 +1,5 @@
 ## Ryan Broman  
-### Security and systems administrator at CalSTRS  
+### Offsec & threat response at CalSTRS  
 ### Qualifications  
 - World's first CDSP-certified 0.01x engineer  
 - Licensed Cherwell Widget-making SME  
