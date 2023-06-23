@@ -1,5 +1,5 @@
 ## Ryan Broman  
-### Offsec, endpoint security, threat monitoring, slacking off at CalSTRS  
+### Offsec, endpoint security, slacking off, etc at CalSTRS  
 ### Qualifications  
 - World's first CDSP-certified 0.01x engineer  
 - Licensed Cherwell Widget-making SME  
