@@ -1,5 +1,5 @@
 ## Ryan Broman  
-### Infosec, threat mgmt, offsec, slacking off, etc at CalSTRS  
+### Infosec, threat mgmt, offsec, slacking off, etc at the State of California
 ### Qualifications  
 - World's first CDSP-certified 0.01x engineer  
 - Licensed Cherwell Widget-making SME  
