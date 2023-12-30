@@ -9,4 +9,4 @@
 ### Fake Qualifications
 - AWS Cloud Practitioner
 - AWS Security Practitioner
-- GCCC
+- GCCC (https://www.giac.org/certified-professional/Ryan-Broman/227371)
