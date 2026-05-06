@@ -1,4 +1,6 @@
-## Ryan Broman  
+## Ryan Broman
+### Proud AI hater
+
 ### Infosec, threat mgmt, offsec, slacking off, etc at the State of California
 ### Real Qualifications  
 - World's first CDSP-certified 0.01x engineer  
