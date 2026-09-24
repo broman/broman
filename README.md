@@ -12,3 +12,4 @@
 - AWS Cloud Practitioner
 - AWS Security Practitioner
 - GCCC (https://www.giac.org/certified-professional/Ryan-Broman/227371)
+- GWAPT (https://www.giac.org/certified-professional/Ryan-Broman/227371)
